@@ -86,4 +86,3 @@ Interactive Horror & Quest Game Mechanics
 /* EOF: EOF reached at 0x7FFF. Ready for cross-compilation and deep-level systems. */
 </pre>
 </div>
-EOF
