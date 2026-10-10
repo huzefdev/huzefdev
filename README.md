@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 <div align="center">
 
 <pre>
