@@ -20,12 +20,6 @@ Host: ARM64 / POSIX Subsystems ── State: Deterministic ── Arch: First Pr
 
 </div>
 
-### `> /proc/sys/kernel/identity`
-
-Main high-level abstractions ke peeche ka deterministic behavior engineer karta hoon. Resource-constrained hardware (mobile nodes, embedded chips, ARM64) par systems build karna, custom execution runtimes manipulate karna aur hardware-software interface par zero-cost abstractions design karna mera core focus hai. 
-
-Code tabhi reliable hota hai jab uski memory layout, register state aur bus communication clear ho.
-
 <pre>
 +-----------------------+-------------------------------------------------------+
 | Subsystem             | Execution Focus                                       |
